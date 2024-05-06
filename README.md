@@ -5,7 +5,7 @@
 
 ## 项目文档
 
-* [用户需求](documentation/User Requirements Specification.md)
-* [软件规格需求](documentation/Software Requirements Specification.md)
+* [用户需求](documentation/User%20Requirements%20Specification.md)
+* [软件规格需求](documentation/Software%20Requirements%20Specification.md)
 * [设计概要](documentation/soft%20tree.md)
 * [设计细节](documentation/soft%20interface.md)
